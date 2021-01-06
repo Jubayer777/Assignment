@@ -97,7 +97,7 @@ section{
     color: tomato;
 }
 #chat-section{
-   background-image: url(images/work.png);
+   background-image: url(background/work.png);
    background-repeat: no-repeat;
    background-position: center;
    background-size: 60%;
